@@ -97,13 +97,15 @@ THE SOFTWARE.
 
 @angular/material/form-field
 
-@angular/material/grid-list
-
 @angular/material/icon
 
 @angular/material/list
 
+@angular/material/progress-spinner
+
 @angular/material/select
+
+@angular/material/snack-bar
 
 @angular/material/toolbar
 
