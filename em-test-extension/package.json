@@ -1,0 +1,11 @@
+{
+  "name": "em-test-extension",
+  "version": "1.0.0",
+  "description": "EM Test Extension",
+  "main": "index.html",
+  "scripts": {
+    "test": "go-test"
+  },
+  "author": "Bogdan Zubakin",
+  "license": "ISC"
+}

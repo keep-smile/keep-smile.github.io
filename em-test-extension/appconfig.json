@@ -1,0 +1,108 @@
+{
+    "name": "EM Test Extension",
+    "provider": "BZ",
+    "description": "Sample extension inside Shell with Shell navigation",   
+    "version": "1.0.0", 
+    "icon": "https://avatars.githubusercontent.com/u/832736?v=4",
+    "translations": [
+      {
+        "lang": "ua",
+        "name": "І все буде добре!",
+        "description": "Це просто пробне розшірення для SAP "
+      }
+    ],
+    "useShellSDK": false,
+    "outletPositions": [
+        "SHELL_HOME_SCREEN",	
+	    "WFM_ACTIVITY_SIDEBAR",
+	    "PP_DASHBOARD_1",
+	    "PP_TECHNICIAN_DETAILS_1",
+	    "PP_ASSIGNMENT_DETAILS_2",
+	    "SERVICE_CALL_VIEW_PAGE_EQUIPMENT_TAB_TOP"
+    ],
+    "insideShell": true,
+    "parameters": [{
+      "name": "alowContact",
+      "type": "BOOLEAN",
+      "labelTranslations": [
+        {
+          "lang": "en",
+          "value": "Allow contact"
+        },
+        {
+          "lang": "de",
+          "value": "Kontakt zulassen"
+        }
+      ]
+    },
+    {
+      "name": "apiKey",
+      "required": true,
+      "type": "TEXT",
+      "regexValidation": "^[a-zA-Z-]+$",
+      "labelTranslations": [
+        {
+          "lang": "en",
+          "value": "API Key"
+        },
+        {
+          "lang": "de",
+          "value": "API-Schlüssel"
+        }
+      ],
+      "placeholderTranslations": [
+        {
+          "lang": "en",
+          "value": "An API key received in the confirmation mail"
+        },
+        {
+          "lang": "de",
+          "value": "API-Schlüssel, den Sie in der Bestätigungsmail erhalten haben"
+        }
+      ]
+    },
+    {
+      "name": "networkName",
+      "required": true,
+      "type": "TEXT",
+      "regexValidation": "^[a-zA-Z-]+$",
+      "labelTranslations": [
+        {
+          "lang": "en",
+          "value": "Net name"
+        },
+        {
+          "lang": "de",
+          "value": "Der Netzwerkname"
+        }
+      ],
+      "placeholderTranslations": [
+        {
+          "lang": "en",
+          "value": "The network name"
+        },
+        {
+          "lang": "de",
+          "value": "Der Netzwerkname, den Sie in der Bestätigungsmail erhalten haben"
+        }
+      ]
+    }],
+    "shellNavigation": {
+        "icon": "activities",
+        "sideNavigation": [
+          {
+            "pathSegment": "home",
+            "labelTranslations": [
+              {
+                "lang": "en",
+                "value": "Home"
+              }
+            ],
+            "viewUrl": "/#/",
+            "icon": "home",
+            "isDefault": true,
+            "children": []
+          }
+       ]
+    }
+}
