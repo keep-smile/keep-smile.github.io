@@ -2,7 +2,7 @@
     "name": "EM Test Extension",
     "provider": "BZ",
     "description": "Sample extension inside Shell with Shell navigation",   
-    "version": "1.0.0", 
+    "version": "2.0.0",
     "icon": "https://avatars.githubusercontent.com/u/832736?v=4",
     "translations": [
       {
