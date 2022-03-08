@@ -6,6 +6,13 @@
     "icon": "https://keep-smile.github.io/em-test-extension/yes-sign.png",
     "translations": [
       {
+        "lang": "en",
+        "name": "І все буде добре!",
+        "description": "Це просто пробне розшірення для SAP ",
+        "parametersInformation": "en desc"
+      },
+
+      {
         "lang": "ua",
         "name": "І все буде добре!",
         "description": "Це просто пробне розшірення для SAP "
@@ -13,7 +20,8 @@
         {
         "lang": "ru",
         "name": "І все буде добре!",
-        "description": "Це просто пробне розшірення для SAP "
+        "description": "Це просто пробне розшірення для SAP ",
+        "parametersInformation": "ru desc"
       }
     ],
     "useShellSDK": false,
