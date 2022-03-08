@@ -6,13 +6,6 @@
     "icon": "https://keep-smile.github.io/em-test-extension/yes-sign.png",
     "translations": [
       {
-        "lang": "en",
-        "name": "І все буде добре!",
-        "description": "Це просто пробне розшірення для SAP ",
-        "parametersInformation": "en desc"
-      },
-
-      {
         "lang": "ua",
         "name": "І все буде добре!",
         "description": "Це просто пробне розшірення для SAP "
