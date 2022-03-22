@@ -5,7 +5,7 @@
     "version": "1.3.0",
     "icon": "https://keep-smile.github.io/em-test-extension/yes-sign.png",
     "useShellSDK": false,
-    "outletPositions": ["SHELL_HOME_SCREEN"],
+    "outletPositions": ["SHELL_HOME_SCREEN", "PP_DASHBOARD_1", "PP_TECHNICIAN_DETAILS_1", "PP_ASSIGNMENT_DETAILS_2", "SERVICE_CALL_CREATE_PAGE_EQUIPMENT_TAB_TOP"],
     "insideShell": true,
     "parametersInformation": "Params description text",
     "parameters": [{
