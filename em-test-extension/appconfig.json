@@ -7,7 +7,7 @@
     "useShellSDK": false,
     "outletPositions": ["SHELL_HOME_SCREEN", "PP_DASHBOARD_1", "PP_TECHNICIAN_DETAILS_1", "PP_ASSIGNMENT_DETAILS_2", "SERVICE_CALL_CREATE_PAGE_EQUIPMENT_TAB_TOP"],
     "insideShell": true,
-    "parametersInformation": "Params description text",
+    "parametersInformation": "Parameters information text",
     "parameters": [{
       "name": "alowContact",
       "type": "BOOLEAN",
