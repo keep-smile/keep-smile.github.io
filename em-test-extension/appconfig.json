@@ -8,7 +8,7 @@
     "outletPositions": ["SHELL_HOME_SCREEN", "PP_DASHBOARD_1", "PP_TECHNICIAN_DETAILS_1", "PP_ASSIGNMENT_DETAILS_2", "SERVICE_CALL_CREATE_PAGE_EQUIPMENT_TAB_TOP"],
     "insideShell": true,
     "parametersInformation": "Parameters information text. Please provide folloving parameters required for the extension setup.",
-    "extensionPolicies": ["test1", "test2"],
+    "extensionPolicies": ["test4", "test4"],
     "shellNavigation": {
         "icon": "activities",
         "sideNavigation": [
