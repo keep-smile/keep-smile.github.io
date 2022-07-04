@@ -22,7 +22,31 @@
             }
           ],
           "toolTip": "This is the URL that is used to connect the extension to your account our System"
+        },
+        {
+          "name": "checkbox",
+          "type": "CHECKBOX",
+          "labelTranslations": [
+            {
+              "lang": "en",
+              "value": "System URL"
+            }
+          ],
+          "toolTip": "This is the URL that is used to connect the extension to your account our System"
+        },
+        {
+          "name": "checkbox",
+          "type": "BOOLEAN",
+          "labelTranslations": [
+            {
+              "lang": "en",
+              "value": "System URL"
+            }
+          ],
+          "toolTip": "This is the URL that is used to connect the extension to your account our System"
         }
+
+
     ],
     "shellNavigation": {
         "icon": "activities",
