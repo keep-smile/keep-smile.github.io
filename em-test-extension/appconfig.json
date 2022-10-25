@@ -44,6 +44,18 @@
           ],
           "toolTip": "This is the URL that is used to connect the extension to your account our System"
         }
+        ,
+        {
+          "name": "checkbox3",
+          "type": "CHECKBOX",
+          "labelTranslations": [
+            {
+              "lang": "en",
+              "value": "3"
+            }
+          ],
+          "toolTip": "This is the URL that is used to connect the extension to your account our System"
+        }
 ,
         {
           "name": "checkbox2",
