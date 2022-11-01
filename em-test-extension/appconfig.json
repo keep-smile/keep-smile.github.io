@@ -8,7 +8,7 @@
     "outletPositions": ["SHELL_HOME_SCREEN"],
     "insideShell": true,
     "parametersInformation": "Parameters information text. Please provide folloving parameters required for the extension setup.",
-    "extensionAttributes": ["test"],
+    "extensionAttributes": ["allow-forms"],
     "parameters": [
         {
           "name": "systemUrl",
