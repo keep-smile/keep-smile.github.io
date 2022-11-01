@@ -7,7 +7,7 @@
     "useShellSDK": false,
     "outletPositions": ["SHELL_HOME_SCREEN"],
     "insideShell": true,
-    "extensionPolicies": ["allow-forms"],
+    "extensionPolicies": ["allow-forms", "allow-downloads-without-user-activation"],
     "parametersInformation": "Parameters information text. Please provide folloving parameters required for the extension setup.",
     "parameters": [
         {
