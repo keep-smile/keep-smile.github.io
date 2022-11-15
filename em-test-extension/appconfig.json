@@ -7,7 +7,7 @@
     "useShellSDK": true,
     "outletPositions": ["SHELL_HOME_SCREEN"],
     "insideShell": true,
-    "extensionPolicies": ["allow-modals", "allow-popups", "allow-popups-to-escape-sandbox", "allow-same-origin", "allow-scripts", "allow-downloads", "allow-orientation-lock", "allow-pointer-lock", "allow-presentation", "allow-top-navigation", "allow-top-navigation-by-user-activation"],
+    "extensionAttributes": ["allow-modalss", "allow-popups", "allow-popups-to-escape-sandbox", "allow-same-origin", "allow-scripts", "allow-downloads", "allow-orientation-lock", "allow-pointer-lock", "allow-presentation", "allow-top-navigation", "allow-top-navigation-by-user-activation"],
     "parametersInformation": "Parameters information text. Please provide folloving parameters required for the extension setup.",
     "parameters": [
         {
