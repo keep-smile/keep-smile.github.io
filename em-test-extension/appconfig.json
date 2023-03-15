@@ -7,32 +7,9 @@
     "useShellSDK": true,
     "outletPositions": ["SHELL_HOME_SCREEN"],
     "insideShell": true,
-    "extensionPolicies": ["allow-modals", "allow-popups", "allow-popups-to-escape-sandbox", "allow-same-origin", "allow-scripts", "allow-downloads", "allow-orientation-lock", "allow-pointer-lock", "allow-presentation", "allow-top-navigation", "allow-top-navigation-by-user-activation"],
+    "extensionPolicies": ["allow-popups", "allow-popups-to-escape-sandbox", "allow-same-origin", "allow-scripts", "allow-downloads", "allow-orientation-lock", "allow-pointer-lock", "allow-presentation", "allow-top-navigation", "allow-top-navigation-by-user-activation"],
     "parametersInformation": "Parameters information text. Please provide folloving parameters required for the extension setup.",
     "parameters": [
-        {
-          "name": "systemUrl",
-          "required": true,
-          "type": "TEXT",
-          "regexValidation": null,
-          "labelTranslations": [
-            {
-              "lang": "en",
-              "value": "System URL"
-            }
-          ],
-          "toolTip": "This is the URL that is used to connect the extension to your account our System",
-          "toolTipTranslations": [
-            {
-              "lang": "en",
-              "value": "System URL"
-            },
-            {
-              "lang": "de",
-              "value": "System URL DE"
-            }
-          ] 
-        },
         {
           "name": "checkbox",
           "type": "CHECKBOX",
