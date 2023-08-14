@@ -60,12 +60,11 @@
         
 
     ],
+    "rootPathSegment": "home",
     "shellNavigation": {
-        "rootPathSegment": "home",
         "icon": "activities",
         "sideNavigation": [
           {
-            "rootPathSegment": "home",
             "pathSegment": "home",
             "labelTranslations": [
               {
