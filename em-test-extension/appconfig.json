@@ -12,7 +12,7 @@
     "parameters": [
         {
           "name": "checkbox",
-          "type": "TEXT",
+          "type": "BOOLEAN",
           "labelTranslations": [
             {
               "lang": "en",
