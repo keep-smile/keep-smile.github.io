@@ -12,7 +12,7 @@
     "parameters": [
         {
           "name": "checkbox",
-          "type": "CHECKBOX",
+          "type": "TEXT",
           "labelTranslations": [
             {
               "lang": "en",
@@ -23,7 +23,7 @@
         }
         ,{
           "name": "checkbox4",
-          "type": "CHECKBOX",
+          "type": "TEXT",
           "labelTranslations": [
             {
               "lang": "en",
@@ -35,7 +35,7 @@
 ,
         {
           "name": "checkbox3",
-          "type": "CHECKBOX",
+          "type": "TEXT",
           "labelTranslations": [
             {
               "lang": "en",
@@ -47,7 +47,7 @@
 ,
         {
           "name": "checkbox2",
-          "type": "CHECKBOX2",
+          "type": "TEXT",
           "labelTranslations": [
             {
               "lang": "en",
