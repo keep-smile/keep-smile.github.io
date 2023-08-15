@@ -60,6 +60,7 @@
         
 
     ],
+    "rootPathSegment": "home",
     "shellNavigation": {
         "icon": "activities",
         "sideNavigation": [
