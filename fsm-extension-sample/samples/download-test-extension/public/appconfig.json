@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "useShellSDK": true,
   "shellNavigation": {
+    "rootPathSegment": "",
     "icon": "building",
     "insideShell": true
   },
