@@ -12,7 +12,7 @@
     "parameters": [
         {
           "name": "checkbox",
-          "type": "CHECKBOX",
+          "type": "TEXT",
           "labelTranslations": [
             {
               "lang": "en",
