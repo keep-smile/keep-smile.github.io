@@ -20,8 +20,8 @@
             }
           ],
           "toolTip": "This is the URL that is used to connect the extension to your account our System"
-        }
-        ,{
+        },
+        {
           "name": "checkbox4",
           "type": "TEXT",
           "labelTranslations": [
@@ -31,8 +31,7 @@
             }
           ],
           "toolTip": "This is the URL that is used to connect the extension to your account our System"
-        }
-,
+        },
         {
           "name": "checkbox3",
           "type": "TEXT",
@@ -43,8 +42,7 @@
             }
           ],
           "toolTip": "This is the URL that is used to connect the extension to your account our System"
-        }
-,
+        },
         {
           "name": "checkbox2",
           "type": "TEXT",
@@ -56,27 +54,5 @@
           ],
           "toolTip": "This is the URL that is used to connect the extension to your account our System"
         }
-
-        
-
-    ],
-    "rootPathSegment": "home",
-    "shellNavigation": {
-        "icon": "activities",
-        "sideNavigation": [
-          {
-            "pathSegment": "home",
-            "labelTranslations": [
-              {
-                "lang": "en",
-                "value": "Home"
-              }
-            ],
-            "viewUrl": "/#/",
-            "icon": "home",
-            "isDefault": true,
-            "children": []
-          }
-       ]
-    }
+    ]
 }
